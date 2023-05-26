@@ -16,6 +16,8 @@ fun main() {
 when(operation){
     '+' -> add(number1,number2)
         '-' -> add2(number1 , number2)
+         '*' -> add3(number1 , number2)
+          '/' -> add4(number1 , number2)
 
 
 
